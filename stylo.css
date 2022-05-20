@@ -1,0 +1,52 @@
+.losmalos{
+    background-color: red;
+}
+
+.rebeldes{
+    background-color: blue;
+}
+
+#darth{
+    font-size: xx-large;
+
+}
+
+#luke{
+    font-style:italic;
+}
+
+.soldados{
+    letter-spacing: 3px;
+    border-style: inset;
+    text-decoration-color: rgb(215, 250, 220);
+}
+
+.apoyo{
+    text-align: center;
+}
+
+#centrar{
+    text-align: center;
+    display: block;
+
+}
+.naves{
+    text-transform:uppercase;
+}
+
+body{
+   background-image:url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+    opacity:inherit;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+}
+li{
+    background-color:#efb810;
+    list-style:none;  /*con esto quito la viñeta*/
+}
+
+ ul{
+    list-style: none;  /*con esto quito la viñeta*/  
+ }
+h3{
+    background-color:#efb810;  
+}
